@@ -14,12 +14,10 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 Trabajando en **Lendex** — proyecto propio
-- 💻 Desarrollo con **.NET · C# · Java**
-- 🗄️ Bases de datos con **MongoDB** y APIs con **Postman**
-- 🌱 Siempre aprendiendo algo nuevo
+- 🔭 Trabajando en **[Lendex](https://lendexgp.com/landing)** — proyecto propio.
+- 💻 Full Stack Developer.
+- 🌱 Siempre aprendiendo algo nuevo.
 - 🌐 Mira mi portafolio 👉 **[portafolio-josel.web.app](https://portafolio-josel-24a3a.web.app/)**
-- 📍 República Dominicana 🇩🇴
 
 ---
 
