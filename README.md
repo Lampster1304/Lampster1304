@@ -17,7 +17,6 @@
 - 🔭 Trabajando en **[Lendex](https://lendexgp.com/landing)** — proyecto propio.
 - 💻 Full Stack Developer.
 - 🌱 Siempre aprendiendo algo nuevo.
-- 🌐 Mira mi portafolio 👉 **[portafolio-josel.web.app](https://portafolio-josel-24a3a.web.app/)**
 
 ---
 
