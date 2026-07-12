@@ -6,7 +6,7 @@
 <!-- Subtítulo con efecto de escritura -->
 <p align="center">
   <a href="https://github.com/Lampster1304">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack;.NET+%2B+C%23+%2B+Java;MongoDB+%2B+REST+APIs;Construyendo+Lendex" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack;.NET+%2B+C%23+%2B+Java;MongoDB+%2B+REST+APIs;Certificado+en+BAM" alt="typing"/>
   </a>
 </p>
 
