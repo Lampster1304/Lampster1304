@@ -19,7 +19,6 @@
 - 🗄️ Bases de datos con **MongoDB** y APIs con **Postman**
 - 🌱 Siempre aprendiendo algo nuevo
 - 🌐 Mira mi portafolio 👉 **[portafolio-josel.web.app](https://portafolio-josel-24a3a.web.app/)**
-- 📍 República Dominicana 🇩🇴
 
 ---
 
