@@ -14,10 +14,12 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 Trabajando en **[lendexgp.com](https://lendexgp.com/landing)**— proyecto propio
-- 💻 Full Stack Developer
+- 🔭 Trabajando en **Lendex** — proyecto propio
+- 💻 Desarrollo con **.NET · C# · Java**
+- 🗄️ Bases de datos con **MongoDB** y APIs con **Postman**
 - 🌱 Siempre aprendiendo algo nuevo
 - 🌐 Mira mi portafolio 👉 **[portafolio-josel.web.app](https://portafolio-josel-24a3a.web.app/)**
+- 📍 República Dominicana 🇩🇴
 
 ---
 
@@ -40,15 +42,24 @@
 
 ### 📊 Mis estadísticas
 
+<!-- Banner de perfil (ancho completo) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lampster1304&theme=tokyonight" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lampster1304&theme=tokyonight" alt="resumen de perfil"/>
 </p>
 
+<!-- Fila 1: stats + horario productivo -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lampster1304&theme=tokyonight" alt="lenguajes por repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lampster1304&theme=tokyonight" alt="lenguajes mas usados"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lampster1304&theme=tokyonight" alt="stats"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lampster1304&theme=tokyonight&utcOffset=-4" alt="horario productivo"/>
 </p>
 
+<!-- Fila 2: lenguajes -->
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lampster1304&theme=tokyonight" alt="lenguajes por repo"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lampster1304&theme=tokyonight" alt="lenguajes mas usados"/>
+</p>
+
+<!-- Racha (ancho completo) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lampster1304&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
