@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 Trabajando en **Lendex** — proyecto propio
+- 🔭 Trabajando en **[lendexgp.com](https://lendexgp.com/landing)**— proyecto propio
 - 💻 Desarrollo con **.NET · C# · Java**
 - 🗄️ Bases de datos con **MongoDB** y APIs con **Postman**
 - 🌱 Siempre aprendiendo algo nuevo
