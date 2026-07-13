@@ -39,16 +39,6 @@
 
 ### 📊 Mis estadísticas
 
-<!-- Generadas por GitHub Actions (.github/workflows/metrics.yml) y guardadas
-     en este mismo repo, asi nunca fallan por limite de API de terceros. -->
-<p align="center">
-  <img src="./metrics/general.svg" alt="estadisticas"/>
-</p>
-
-<p align="center">
-  <img src="./metrics/calendario.svg" alt="calendario de contribuciones"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lampster1304&theme=tokyonight&hide_border=true" alt="racha"/>
 </p>
