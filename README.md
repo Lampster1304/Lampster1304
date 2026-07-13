@@ -39,17 +39,18 @@
 
 ### 📊 Mis estadísticas
 
+<!-- Generadas por GitHub Actions (.github/workflows/metrics.yml) y guardadas
+     en este mismo repo, asi nunca fallan por limite de API de terceros. -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lampster1304&theme=tokyonight" alt="stats"/>
+  <img src="./metrics/general.svg" alt="estadisticas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lampster1304&theme=tokyonight" alt="lenguajes por repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lampster1304&theme=tokyonight" alt="lenguajes mas usados"/>
+  <img src="./metrics/calendario.svg" alt="calendario de contribuciones"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lampster1304&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Lampster1304&theme=tokyonight&hide_border=true" alt="racha"/>
 </p>
 
 ---
