@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 - 🔭 Trabajando en **[Lendex](https://lendexgp.com/landing)** — proyecto propio.
 - 💻 Full Stack Developer.
@@ -20,7 +20,7 @@
 
 ---
 
-### 🧰 Stack & Herramientas
+### Stack & Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Mis estadísticas
+### Mis estadísticas
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lampster1304&theme=tokyonight&hide_border=true" alt="racha"/>
@@ -45,7 +45,7 @@
 
 ---
 
-### 🌐 Conéctate conmigo
+### Conéctate conmigo
 
 <p align="center">
   <a href="https://portafolio-josel-24a3a.web.app/">
